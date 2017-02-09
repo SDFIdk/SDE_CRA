@@ -1,0 +1,21 @@
+# Python
+*.pyc
+__pycache__
+
+# PyCharm
+.idea
+
+# ESRI
+*.gdb
+*.esriaddin
+*.sde
+
+# Credentials
+[Cc]redentials.*
+
+# General
+*.bak
+*.log
+*.tmp
+*.bat
+*.html
